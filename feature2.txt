@@ -2,4 +2,7 @@ This feature 2 by Lovely.
 Lets try to implement types of merges
 
 
-"This is new changes i did to implemet squash merge"
+"This is new changes i did to implemet squash merge
+
+
+for multiple squash
