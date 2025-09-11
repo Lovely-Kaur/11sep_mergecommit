@@ -1,1 +1,9 @@
-this is home page
+this is home page 
+
+function home(){
+    return (
+        <div>
+            <h1>home page</h1>
+        </div>
+    )
+}
