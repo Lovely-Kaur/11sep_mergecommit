@@ -6,3 +6,11 @@ Lets try to implement types of merges
 
 
 for multiple squash
+
+
+"Now these are changes for trying rebases
+
+
+
+okay lets do
+
