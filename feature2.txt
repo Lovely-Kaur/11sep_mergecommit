@@ -1,15 +1,12 @@
 This feature 2 by Lovely. 
 Lets try to implement types of merges
 
-
-"This is new changes i did to implemet squash merge
-
+"This is new changes i did to implemet squash merge"
 
 for multiple squash
 
 
-"Now these are changes for trying rebases
-
+"Now these are changes for trying rebase"
 
 
 okay lets do
@@ -19,6 +16,9 @@ okay lets do
 New latest changes
 
 
-"new changes specificallys
+"new changes specificallys"
 
 "ANother change"
+
+"This is new changes i did to implemet squash merge"
+
