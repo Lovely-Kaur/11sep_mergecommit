@@ -19,3 +19,5 @@ print(f"Union: {union_set}")
 
 intersection_set = set_A & set_B  # or set_A.intersection(set_B)
 print(f"Intersection: {intersection_set}")
+
+print(f"Resolving a conflict of lovely to check")
